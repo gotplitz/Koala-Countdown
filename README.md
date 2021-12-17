@@ -5,6 +5,7 @@ Hi, I'm done creating the countdown app. I added a date picker so the customer c
 
 It took me like 5 hours because I'm still getting familiar with Typescript.
 
+![Screeshot](/images/screen-shot.png)
 
 ### Installation
 
@@ -23,3 +24,4 @@ It took me like 5 hours because I'm still getting familiar with Typescript.
     ```
 
 4. Once it's done compiling, view the site at: [`http://localhost:3000/`](http://localhost:3000/).
+
